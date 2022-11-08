@@ -1,0 +1,133 @@
+body {
+  color: #40514E;
+  background-color: #80489C;
+  margin: 0;
+  text-align: center;
+  font-family: 'DynaPuff', cursive;
+}
+a{
+  color: #80489C;
+  margin: 10px 20px;
+}
+
+h1 {
+  font-family: 'Lily Script One', cursive;
+  color: #FF8FB1;
+  font-size: 10vw;
+  margin-top: 15vw;
+
+
+}
+h2{
+  color:#FCE2DB;
+}
+
+h3 {
+  color: #FF8FB1;
+  font-size:5vw;
+  text-align: left;
+
+
+
+}
+  hr {
+  border: dotted  #FCE2DB 15px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+hr:last-of-type{
+  margin-bottom:50px;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+footer{
+  background-color:#FCE2DB;
+  margin-top:40px;
+  padding:10px 20px;
+}
+.contact-me{
+
+}
+.im-jessica{
+  margin-top:1px;
+  font-size: 7vh;
+
+}
+
+.intro{
+  color: #FCE2DB;
+  font-size:1rem;
+}
+.jessica {
+  font-family: 'Lily Script One', cursive;
+  color: #FF8FB1;
+}
+.lefticon{
+  width: 15vw;
+align-self:center;
+  margin-right: 30px;
+  border-radius: 50%
+
+
+}
+.heading{
+  display:flex;
+  margin-bottom:40px;
+  margin-right:auto;
+  margin-left:50px;
+}
+
+.chibi {
+  width: 40vw;
+}
+
+.anime {
+  width: 40vw;
+  border-radius: 50%;
+}
+
+.section {
+  background-color: #FCE2DB;
+  width: 60%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 30px 30px 30px 30px;
+}
+.git{
+  margin-bottom:30px;
+  color: #FCE2DB;
+}
+.btn {
+
+  background: #ff8fb1;
+  background-image: -webkit-linear-gradient(top, #ff8fb1, #cf4470);
+  background-image: -moz-linear-gradient(top, #ff8fb1, #cf4470);
+  background-image: -ms-linear-gradient(top, #ff8fb1, #cf4470);
+  background-image: -o-linear-gradient(top, #ff8fb1, #cf4470);
+  background-image: linear-gradient(to bottom, #ff8fb1, #cf4470);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #80489c;
+  background-image: -webkit-linear-gradient(top, #80489c, #673580);
+  background-image: -moz-linear-gradient(top, #80489c, #673580);
+  background-image: -ms-linear-gradient(top, #80489c, #673580);
+  background-image: -o-linear-gradient(top, #80489c, #673580);
+  background-image: linear-gradient(to bottom, #80489c, #673580);
+  text-decoration: none;
+}
